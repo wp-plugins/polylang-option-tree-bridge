@@ -13,9 +13,14 @@ Polylang and Option-Tree bridge, that allows you to have different theme options
 
 Polylang and Option-Tree bridge, that allows you to have different theme options for each language.
 
-= Tested versions: =
-* Polylang at least v1.5
-* Option-Tree at least v2.3.0
+= Dependencies: =
+**At least:**
+* Polylang v1.5
+* Option-Tree v2.3.0
+
+**Tested up to:**
+* Polylang v1.6.3
+* Option-Tree v2.4.6
 
 = How it works =
 
