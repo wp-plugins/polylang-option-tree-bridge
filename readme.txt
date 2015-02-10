@@ -15,10 +15,12 @@ Polylang and Option-Tree bridge, that allows you to have different theme options
 
 = Dependencies: =
 **At least:**
+
 * Polylang v1.5
 * Option-Tree v2.3.0
 
 **Tested up to:**
+
 * Polylang v1.6.4
 * Option-Tree v2.5.0
 
