@@ -19,8 +19,8 @@ Polylang and Option-Tree bridge, that allows you to have different theme options
 * Option-Tree v2.3.0
 
 **Tested up to:**
-* Polylang v1.6.3
-* Option-Tree v2.4.6
+* Polylang v1.6.4
+* Option-Tree v2.5.0
 
 = How it works =
 
